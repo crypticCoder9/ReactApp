@@ -1,6 +1,6 @@
 #  Search Page
 
-This repository contains the code for a search page designed to display information about different salts and their availability in pharmacies. The page is built using React Js and fetches data from the provided API.
+This repository is a open source project designed to display information about different salts and their availability in pharmacies. The page is built using React Js and fetches data from the provided API.
 
 ## Task Summary
 
